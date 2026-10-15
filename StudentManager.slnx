@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="StudentManager.Application.Tests/StudentManager.Application.Tests.csproj" Id="dd5393c2-fb21-4fa2-801d-8afb7f54a48b" />
+  <Project Path="StudentManager.Application/StudentManager.Application.csproj" />
+  <Project Path="StudentManager.Domain.Tests/StudentManager.Domain.Tests.csproj" Id="2d2e8daa-771c-48a6-adcb-178881750207" />
+  <Project Path="StudentManager.Domain/StudentManager.Domain.csproj" />
+  <Project Path="StudentManager.Infrastructure/StudentManager.Infrastructure.csproj" />
+  <Project Path="StudentManager.UI/StudentManager.UI.csproj" />
+</Solution>
